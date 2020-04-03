@@ -66,7 +66,7 @@ The `pom.xml` already contains the Azkarra Streams and Kafka Streams dependencie
     <dependency>
         <groupId>io.streamthoughts</groupId>
         <artifactId>azkarra-streams</artifactId>
-        <version>0.5.0</version>
+        <version>0.6.0</version>
     </dependency>
 </dependencies>
 ```
